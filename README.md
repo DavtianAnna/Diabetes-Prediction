@@ -10,9 +10,9 @@ The model uses the **K-Nearest Neighbors (KNN)** algorithm.
 
 ```
 
-├── 📊 diabetes.csv # Dataset file
-├── 📄 diabetes_task.ipynb # Jupyter notebook with EDA, preprocessing, modeling
-└── 📜 README.md # Project documentation (this file)
+├── 📊 diabetes.csv              # Dataset file
+├── 📄 diabetes_task.ipynb       # Jupyter notebook with EDA, preprocessing, modeling
+└── 📜 README.md                 # Project documentation (this file)
 
 ```
 
